@@ -7,39 +7,39 @@ description: >
 
 submission: ./submission.html
 areas:
-- category: "Neuro-Symbolic AI & Cognitive Computing"
+- category: "Track 1: Neuro-Symbolic AI & Cognitive Computing"
   topics:
     - Knowledge Representation and Reasoning
     - Hybrid AI Systems
     - Explainable AI (XAI)
     - Cognitive Architectures and Agent-Based Models
 
-- category: "Machine Learning & Deep Learning"
+- category: "Track 2: Machine Learning & Deep Learning"
   topics:
     - Supervised, Unsupervised, and Reinforcement Learning
     - Deep Neural Networks and Architectures
     - Transfer Learning and Self-Supervised Learning
     - AI Applications in Healthcare, Finance, and Industry
-- category: "Swarm Intelligence & Multi-Agent Systems"
+- category: "Track 3: Swarm Intelligence & Multi-Agent Systems"
   topics:
     - Particle Swarm Optimization, Ant Colony Optimization
     - Distributed Intelligent Systems
     - Cooperative and Collaborative Robotics
     - Swarm-Based Optimization and Control
 
-- category: "Intelligent Systems & Applications"
+- category: "Track 4: Intelligent Systems & Applications"
   topics:
     - Autonomous Systems and Robotics
     - Smart Computing and IoT-Enabled AI
     - AI in Environmental and Societal Applications
     - Human–AI Interaction and Intelligent Decision-Making
-- category: "Emerging AI Technologies"
+- category: "Track 5: Emerging AI Technologies"
   topics:
     - AI Ethics, Governance, and Responsible AI
     - Quantum Computing and AI Integration
     - AI-Enabled Cybersecurity Solutions
     - Edge AI and Real-Time Intelligent Systems
-- category: "Interdisciplinary Applications of AI"
+- category: "Track 6: Interdisciplinary Applications of AI"
   topics:
     - AI in Healthcare & Biomedical Engineering
     - AI for Sustainable Development & Environmental Studies

@@ -105,8 +105,3 @@ deadlines:
     text: Camera Ready Submission
     pass_due: False
     strike_through: False
-
-sponsors:
-  - name: Society for Innovation, Research, and Intelligent Computing Systems (SIRICS)
-    logo_path: 
-    url: 
