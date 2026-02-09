@@ -4,73 +4,264 @@
   - name: Dr. K. Kala
     org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
     post: Vice Chancellor
-- title: Organising Chair
+
+- title: Patron
   column: 1
   members:
-  - name: Martin Gluckman
-    org: Sanskrit Research Institute
-    post: ""
-    homepage: ""
-- title: Steering Committee
+  - name: Dr. Jayappriya
+    org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
+    post: Registrar
+
+- title: Co-Patron
   column: 1
   members:
-  - name: Amba Kulkarni
-    org: University of Hyderabad, Hyderabad, India
-  - name: Arnab Bhattacharya
-    org: IIT Kanpur, Kanpur, India
-  - name: Brendan Gillon
-    org: McGill University, Montreal, Canada
-  - name: Gérard Huet
-    # org: Institut de France (Académie des Sciences), France
-    org: INRIA, Paris, France
-  # - name: Girish Nath Jha
-  #   org: JNU, Delhi, India
-  #   homepage: https://jnu.ac.in/content/girishjha
-  - name: Malhar Kulkarni
-    org: IIT Bombay, Mumbai, India
-  - name: Pawan Goyal
-    org: IIT Kharagpur, Kharagpur, India
-  - name: Peter Scharf
-    org: The Sanskrit Library, USA
-- title: Technical Program Committe
+  - name: Dr. M. Pushpa Rani
+    org: Department of Computer Science, Mother Teresa Women's University, Kodaikanal, Tamilnadu
+    post: Professor & Head
+
+- title: Conference Honorary Chair
+  column: 1
+  members:
+  - name: Dr. B. Sundaravadivazhagan
+    org: University of Technology and Applied Science - AlMusanna, Sultanate of Oman
+    post: Professor
+
+- title: Conference Convenor
+  column: 1
+  members:
+  - name: Dr. K. Kavitha
+    org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
+  - name: Dr. Elangovan
+    org: SRM Institute, Chennai
+
+- title: Program Chair
+  column: 1
+  members:
+  - name: Dr. S. Vimala
+    org: Department of Computer Science, Mother Teresa Women's University
+    post: Professor & Head
+  - name: Dr. S. Indra Gandhi
+    org: Department of Computer Science, Mother Teresa Women's University
+    post: Professor
+  - name: Dr. D. Usha
+    org: Department of Computer Science, Mother Teresa Women's University
+    post: Assistant Professor
+  - name: Dr. V. Selvi
+    org: Department of Computer Science, Mother Teresa Women's University
+    post: Assistant Professor
+
+- title: Conference Organizing Chair
+  column: 1
+  members:
+  - name: Dr. B. Praveen Kumar
+    org: Universiti Kebangsaan, Malaysia
+  - name: Dr. R. Karthikeyan
+    org: Department of AI and ML, Varadhaman College of Engineering, Telangana, India
+    post: Professor
+  - name: Dr. V. Kavitha
+    org: Sri Ramakrishna College of Arts & Science, Coimbatore, India
+  - name: Dr. N. Gnanasankaran
+    org: Thiagarajar College, Tamilnadu, India
+  - name: Dr. E. Elakkiya
+    org: Govt. Arts College for Women, Tamilnadu, India
+
+- title: International Advisory Board
   column: 2
   members:
-  - name: Amba Kulkarni
-    org: University of Hyderabad, Hyderabad, India
-  - name: Amrith Krishna
-    org: ""
-  - name: Arjuna S R
-    org: Manipal Academy of Higher Education, Bengaluru, India
-  - name: Arnab Bhattacharya
-    org: IIT Kanpur, Kanpur, India
-  - name: Brendan Gillon
-    org: McGill University, Montreal, Canada
-  - name: Chaitali Dangarikar
-    org: IIT Kanpur, Kanpur, India
-  - name: Ganesh Ramakrishnan
-    org: IIT Bombay, Mumbai, India
-  - name: Gérard Huet
-    org: INRIA, Paris, France
-  - name: Malhar Kulkarni
-    org: IIT Bombay, Mumbai, India
-  - name: Oliver Hellwig
-    org: University of Zurich, Zurich, Switzerland
-  - name: Patrick McAllister
-    org: Austrian Academy of Sciences, Austria
-  - name: Pavankumar Satuluri
-    org: Indian Institute of Technology Roorkee, Roorkee, India
-  - name: Pawan Goyal
-    org: IIT Kharagpur, Kharagpur, India
-  - name: Peter Scharf
-    org: The Sanskrit Library, USA
-  - name: Sebastian	Nehrdich
-    org: University of Hamburg, Hamburg, Germany
-  - name: Shivani V
-    org: Karnataka Sanskrit University, Karnataka, India
-  - name: Tanuja P Ajotikar
-    org: The Sanskrit Library, USA
-- title: Webmaster
-  column: 1
+  - name: Dr. Celestine Iwendi
+    org: University of Greater Manchester, Bolton, UK
+  - name: Dr. Gang Li
+    org: Deakin University, Australia
+  - name: Dr. Kai Sheng
+    org: The Academy of Advanced Interdisciplinary Research (AAIR), Xidian University, China
+  - name: Dr. Wail Mardini
+    org: Taibah University, Yenbu, KSA
+  - name: Dr. Xavier Fernando
+    org: Ryerson University, Canada
+  - name: Dr. Michael Onyema Edeh
+    org: Coal City University, Nigeria
+  - name: Dr. Vijayan K. Asari
+    org: University of Dayton, 300 College Park, Dayton, OH, USA
+  - name: Prof. (Dr.) Shashi Kant Gupta
+    org: Lincoln University College, Petaling Jaya, Selangor, Malaysia
+  - name: Dr. Robin Cyriac
+    org: Victoria University, Australia
+  - name: Dr. Wong Wai Kit
+    org: Multimedia University, Melaka, Malaysia
+  - name: Dr. Mariya Quaissa
+    org: Cadi Ayyad University, Morocco
+  - name: Dr. Md. Jakir Hossen
+    org: Multimedia University, Melaka, Malaysia
+  - name: Aminu Mustapha Bagiwa
+    org: Ahmadu Bello University, Zaria, Nigeria
+    post: Reader (Assoc. Professor) of Computer Science
+  - name: Prof. Xiao-Zhi Gao
+    org: School of Computing, University of Eastern Finland, Joensuu, Finland
+  - name: Dr. Rathinaraja Jeyaraj
+    org: Stanford University, California, USA
+  - name: Dr. Bazeer Ahamed
+    org: University of Technology and Applied Science - AL Mussanah, Oman
+  - name: Dr. Gordon J.A. Hunter
+    org: Kingston University, UK
+  - name: Dr. Shakeel Ahmed
+    org: Taylor's University, Malaysia
+  - name: Dr. Senthil Kumar M
+    org: University of Technology and Applied Science - AL Mussanah, Oman
+  - name: Fernando Ruiz Pérez
+    org: Instituto Politécnico Nacional, Mexico
+  - name: G M Shafiullah
+    org: Murdoch University, Australia
+  - name: Giacomo Oliveri
+    org: Presso Università, Trento, Italy
+  - name: Dr. Sathish Kumar
+    org: Cleveland State University, Cleveland, OH, USA
+  - name: Gnanaseelan Natarajan
+    org: CICATA Altamira IPN, Mexico
+  - name: Hassan Haes Alhelou
+    org: Smart Energy Systems Lab, Ireland
+  - name: Dr. Kulandaivel Maruthamuthu Paramasivam
+    org: University of Technology and Applied Science - AL Mussanah, Oman
+  - name: Dr. Khadija Slimani
+    org: ESIEA Graduate University, School of Engineering, France
+  - name: Dr. Mohammed M. Alani
+    org: Rochester Institute of Technology, Dubai
+  - name: Dr. M. Syamaladevi
+    org: Kyungpook National University, Republic of Korea
+  - name: Dr. Chithirai Pon Selvan
+    org: Curtin University, Dubai
+  - name: Dr. Vivekanandan Sureshkumar
+    org: Athabasca University, Canada
+  - name: Dr. Sethuraman Panchanathan
+    org: Arizona State University, USA
+  - name: Dr. P. Rajeswari
+    org: King Khalil University, Saudi Arabia
+  - name: Dr. Ahmed A. Elngar
+    org: Beni-Suef University, Egypt
+  - name: Tobias Geyer
+    org: ABB Medium-Voltage Drives, Switzerland
+  - name: Dr. Najiba ALZadjali
+    org: University of Technology and Applied Science - Muscat, Oman
+  - name: Wang Lipo
+    org: Nanyang Technological University, Singapore
+  - name: Wangda Zuo
+    org: University Park, Pennsylvania, USA
+  - name: Wei Qiao
+    org: University of Nebraska Lincoln, Nebraska, USA
+  - name: Zahra Saadatizadeh
+    org: University of Arkansas, USA
+  - name: Özen Özer
+    org: Kırklareli University, Kırklareli, Turkey
+
+- title: National Advisory Board
+  column: 2
   members:
-  - name: Hrishikesh Terdalkar
-    org: IIT Kanpur, Kanpur, India
+  - name: Dr. Manjaiah D.H
+    org: Mangalore University, Mangalore
+  - name: Dr. M. Hanumathappa
+    org: Bangalore University, Bangalore
+  - name: Dr. D. Muhammad Noorul Mubarak
+    org: University of Kerala
+  - name: Dr. M. Thangaraj
+    org: Madurai Kamaraj University, Tamilnadu
+  - name: Dr. M. Pallikonda Rajasekaran
+    org: Kalasalingam Academy of Research and Education, Tamilnadu, India
+  - name: Dr. Kavita
+    org: Galgotias University, Delhi NCR, India
+  - name: Dr. Abhishek Kumar
+    org: Chandigarh University, Punjab, India
+  - name: Dr. Vandana Sharma
+    org: Christ University, Delhi NCR Campus, India
+  - name: Dr. Anand Sharma
+    org: Mody University of Science and Technology, Rajasthan, India
+  - name: Dr. Pooja Jain
+    org: Indian Institute of Information Technology, Nagpur
+  - name: Dr. K. Shantha Kumari
+    org: SRM Institute of Science and Technology, Chennai, India
+  - name: Dr. Vishal Gour
+    org: Engineering College Bikaner, Rajasthan
+  - name: Dr. Rajesh Kumar Dhanaraj
+    org: Symbiosis International (Deemed University), Pune, India
+  - name: Dr. R.P. Ram Kumar
+    org: Gokaraju Rangaraju Institute of Engineering and Technology, Bachupally, Hyderabad
+    post: Professor of AI and ML
+  - name: Dr. A. Padma Priya
+    org: Alagappa University, Karaikudi
+  - name: Dr. Arun Biradar
+    org: REVA University, Bengaluru, Karnataka, India
+  - name: Dr. Ravi Shankar Singh
+    org: IIT (BHU)
+    post: Professor of Computer Science and Engineering
+  - name: Dr. Ashish Mishra
+    org: Gyan Ganga Institute of Technology and Sciences, Jabalpur
+    post: Professor of Computer Science and Engineering
+  - name: Prof. Vishal Goyal
+    org: Computer Science, Punjabi University, Patiala, Punjab, India
+  - name: Dr. Sanjay Jamwal
+    org: Department of Computer Sciences, Baba Ghulam Shah Badshah University, Rajouri, Jammu & Kashmir
+  - name: Prof. Atul Gosai
+    org: Department of Computer Sciences, Saurashtra University, Rajkot, Gujarat, India
+  - name: Dr. N. A. Natraj
+    org: Symbiosis Institute of Digital and Telecom Management (SIDTM), Symbiosis International (Deemed University), Maharashtra, India
+  - name: Prof. Neeraj Bhargava
+    org: Dept of Computer Sciences, School of Engg. & System Sciences, MDS University, Ajmer, Rajasthan
+  - name: M. Vijayaanand
+    org: Cognizant Technology Solutions, Chennai, Tamilnadu, India
+    post: Sr Architect
+
+- title: Technical Committee Members
+  column: 2
+  members:
+  - name: Dr. Neha Singhal
+    org: CHRIST (Deemed to be University) Dharmaram College, Karnataka, India
+  - name: Dr. S. Gavaskar
+    org: Bharathiar University, Coimbatore
+  - name: Dr. B. Murugeshwari
+    org: Velammal Engineering College, Chennai
+  - name: Dr. K. Kayathri
+    org: Agurchand Manmull Jain College, Meenambakkam, Chennai
+  - name: Dr. S. Suganthi
+    org: G. Venkataswamy Naidu College, Kovilpatti
+  - name: Dr. M. Janaki
+    org: Dr. Umayal Ramanathan College for Women, Karaikudi
+  - name: Dr. S. Santhoshkumar
+    org: Alagappa University, Karaikudi
+  - name: Dr. A. Nagarajan
+    org: Alagappa University, Karaikudi
+  - name: Dr. M. Ilayaraja
+    org: Kalasalingam Academy of Research and Education, Krishnankoil
+  - name: Dr. B. Indrani
+    org: Madurai Kamaraj University, Madurai
+  - name: Dr. K. Kala
+    org: Nachiappa Swamigal Arts & Science College, Koviloor
+  - name: Dr. M. Balamurugan
+    org: Bharathidasan University, Trichy
+  - name: Dr. Gopinath Ganapathy
+    org: Bharathidasan University
+  - name: Dr. P. Kalavathi
+    org: Gandhigram Rural Institute
+  - name: Dr. P. Shanmugavadivu
+    org: Gandhigram Rural Institute
+  - name: Dr. R.S. Bhuvaneswaran
+    org: Anna University, Chennai
+  - name: Dr. E. Srie Vidhya Janani
+    org: Anna University, Madurai Campus
+  - name: Dr. P. Thiyagarajan
+    org: Central University of Tamilnadu
+  - name: Dr. G. Suganya
+    org: VIT, Chennai
+  - name: Dr. E. Chandra
+    org: Bharathiar University, Coimbatore
+  - name: Dr. T. Devi
+    org: Bharathiar University, Coimbatore
+  - name: Dr. T. Senthil Kumar
+    org: Amrita Vishwa Vidyapeetham, Coimbatore
+  - name: Dr. P. Balamuralidhar
+    org: TCS Ltd, Bangalore
+  - name: Dr. S. Loganayagi
+    org: Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai
+  - name: Mrs. R. Padmavathi
+    org: Agurchand Manmull Jain College, Meenambakkam, Chennai
+  - name: Boby Chellanthara Jose
+    org: University of Technology and Applied Science - AL Mussanah, Oman
+  - name: Feroze Ahmed
+    org: University of Technology and Applied Science - AL Mussanah, Oman
