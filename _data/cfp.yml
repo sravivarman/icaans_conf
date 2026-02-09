@@ -5,7 +5,6 @@ description: >
 
   All accepted and presented papers will be published in the proceedings of ...................
 
-submission: ./submission.html
 areas:
 - category: "Track 1: Neuro-Symbolic AI & Cognitive Computing"
   topics:
