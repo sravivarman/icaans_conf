@@ -1,5 +1,5 @@
-full_name: International Sanskrit Computational Linguistics Symposium
-short_name: ISCLS
+full_name: International Conference on Advancing Agentic AI Paradigm through Neuro-Symbolic AI and Swarm Intelligence
+short_name: ICAANS
 description: > # this means to ignore newlines until "baseurl:"
   ISCLS is a forum for original and unpublished research on various
   aspects of Computational Linguistics and Digital Humanities related to
@@ -7,14 +7,14 @@ description: > # this means to ignore newlines until "baseurl:"
 
 email: iscls@outlook.com
 
-iteration: 7th
-full_title: 7th International Sanskrit Computational Linguistics Symposium
-short_title: 7th ISCLS 2024
+iteration: 1st
+full_title: 1st International Conference on Advancing Agentic AI Paradigm through Neuro-Symbolic AI and Swarm Intelligence
+short_title: 1st ICAANS 2026
 
-year: 2024
-date: February 15-17, 2024
+year: 2026
+date: July 16-17, 2026
 
-location: Auroville, Puducherry
+location: Kodaikanal, Tamil Nadu
 country: India
 
 logo_path: ./assets/images/7th_iscls_logo_name.png
