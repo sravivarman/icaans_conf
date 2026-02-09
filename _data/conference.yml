@@ -17,7 +17,7 @@ date: July 16-17, 2026
 location: Kodaikanal, Tamil Nadu
 country: India
 
-logo_path: ./assets/images/icaans-logo.png
+logo_path: ./assets/images/logo_name.png
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
