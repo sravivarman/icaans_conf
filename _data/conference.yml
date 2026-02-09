@@ -17,8 +17,10 @@ short_title: 1st ICAANS 2026
 year: 2026
 date: July 16-17, 2026
 
-location: Kodaikanal, Tamil Nadu
-country: India
+location: Organized by Department of Computer Science, 
+  Mother Teresa Women’s University (MTWU) collaboration with 
+
+country: Society for Innovation, Research, and Intelligent Computing Systems (SIRICS)
 
 logo_path: ./assets/images/logo_name.png
 
@@ -92,16 +94,16 @@ deadline_timezone: IN
 deadlines:
   - date: 2026-04-15
     text: Paper Submission Deadline
-    pass_due: True
+    pass_due: False
     strike_through: False
   - date: 2026-05-10
     text: Author Notification
-    pass_due: True
+    pass_due: False
     strike_through: False
   - date: 2026-06-05
     # timezone: IN
     text: Camera Ready Submission
-    pass_due: True
+    pass_due: False
     strike_through: False
 
 sponsors:
