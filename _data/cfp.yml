@@ -1,41 +1,48 @@
 description: >
-  Full papers are invited on original and unpublished research on various
-  aspects of Computational Linguistics and Digital Humanities related to
-  Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit, etc.
+ICAANS 2026 provides a platform for academia and industry to present and discuss the latest innovations, trends, challenges, and solutions in intelligent and autonomous systems. We invite researchers, professionals, and industry experts to submit their original, unpublished research contributions that are not under consideration elsewhere. Join us in advancing the agentic AI paradigm and shaping the future of intelligent, ethical, and autonomous technologies.
+
+All submissions will undergo a single-blind peer review by experts from reputed organizations worldwide. Only nontrivial, unpublished, and original contributions will be considered.
+
+All accepted and presented papers will be published in the proceedings of ...................
+
 submission: ./submission.html
 areas:
-- category: "Sanskrit Computational Linguistics: with Extensions to Related Ancient Indian Languages (Vedic, Pali, Prakrit)"
+- category: "Neuro-Symbolic AI & Cognitive Computing"
   topics:
-    - Digital lexicons, thesauri and wordnets
-    - Computational phonology and morphology
-    - Syntactic analysis
-    - Prose order normalisation
-    - Parsing
-    - Discourse analysis
-    - Structural semantics
-    - Machine translation
-    - Automatic analysis of Sanskrit corpus
-    - Navya-Nyāya and other technical language processing
-    - Information extraction
-    - Named entity recognition
-- category: "Shāstric Sanskrit Texts and Computation"
+    - Knowledge Representation and Reasoning
+    - Hybrid AI Systems
+    - Explainable AI (XAI)
+    - Cognitive Architectures and Agent-Based Models
+
+- category: "Machine Learning & Deep Learning"
   topics:
-    - Computer modeling and simulation of Paninian and other traditional grammars
-    - Theories of Śābdabodha and Sanskrit computational processing
-- category: "Sanskrit Digital Libraries Management"
+    - Supervised, Unsupervised, and Reinforcement Learning
+    - Deep Neural Networks and Architectures
+    - Transfer Learning and Self-Supervised Learning
+    - AI Applications in Healthcare, Finance, and Industry
+- category: "Swarm Intelligence & Multi-Agent Systems"
   topics:
-    - Tools for acquisition and maintenance of Sanskrit digital corpus
-    - Library crawlers or search tools in Sanskrit corpus
-    - Incorporation of grammatical information in Sanskrit corpus
-    - Automated tools for evaluation of Sanskrit poetry, e.g., meter recognition/verification, alaṃkāra identification, śleṣa analysis
-    - Software tools for phylogenic studies, intertextuality management, establishment of critical editions, and other philological applications
-    - OCR recognition of romanized Sanskrit as well as ancient Indian scripts
-    - Digital cataloguing of manuscripts
-    - Annotation and editing
-    - Alignment of text with images (including manuscripts)
-    - User interface design
-- category: "Miscellaneous Computer Applications Relevant to Sanskrit"
+    - Particle Swarm Optimization, Ant Colony Optimization
+    - Distributed Intelligent Systems
+    - Cooperative and Collaborative Robotics
+    - Swarm-Based Optimization and Control
+
+- category: "Intelligent Systems & Applications"
   topics:
-    - Software tools for teaching Sanskrit
-    - Sanskrit speech recognition and synthesis
-    - Tools and applications for Sanskrit dissemination
+    - Autonomous Systems and Robotics
+    - Smart Computing and IoT-Enabled AI
+    - AI in Environmental and Societal Applications
+    - Human–AI Interaction and Intelligent Decision-Making
+- category: "Emerging AI Technologies"
+  topics:
+    - AI Ethics, Governance, and Responsible AI
+    - Quantum Computing and AI Integration
+    - AI-Enabled Cybersecurity Solutions
+    - Edge AI and Real-Time Intelligent Systems
+- category: "Interdisciplinary Applications of AI"
+  topics:
+    - AI in Healthcare & Biomedical Engineering
+    - AI for Sustainable Development & Environmental Studies
+    - AI in Social Sciences, Humanities, and Education
+    - AI in Business, Economics, and Management
+    - AI for Smart Cities, Agriculture, and Industrial Automation
