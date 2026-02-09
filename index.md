@@ -4,7 +4,7 @@ layout: home
 slide_id: 0
 ---
 
-## About Mother Teresa Women’s University (MTWU)
+### About Mother Teresa Women’s University (MTWU)
 
 Mother Teresa Women’s University (MTWU), Kodaikanal, established in 1984 by the Government of Tamil Nadu, is a state university committed to academic excellence, research innovation, and women’s empowerment. Located in the serene hill station of Kodaikanal, MTWU promotes multidisciplinary education, research-led learning, and technology-enabled academic initiatives, fostering interdisciplinary collaboration and the integration of emerging technologies to address regional, national, and global challenges.
 
