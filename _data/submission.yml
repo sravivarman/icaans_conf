@@ -1,4 +1,4 @@
-portal: Microsoft CMT3 Submission Portal
+portal: Microsoft CMT
 url: "https://cmt3.research.microsoft.com/"
 
 file_formats:
@@ -13,14 +13,20 @@ review_mode: 0
 pagelimits:
   - type: paper
     name: Paper
-    limit: 06
-
-fontsize: 11
+    min: 8
+    max: 9
 
 template:
-  name: ICAANS Submission Template
-  description: submission template and instructions for ICAANS
+  name: Springer Template (MS Word)
+  description: Springer Format
   url: ./assets/files/icaans-template.zip
-  
 
-publisher: Publishers
+max_authors: 4
+min_references: 15
+max_plagiarism: 10
+abstract_words: 150-200
+keywords: 4-5
+
+publisher: Springer
+
+

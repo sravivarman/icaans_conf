@@ -6,108 +6,69 @@ slide_id: 3
 
 
 <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-2 text-justify conference-text">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 my-2 text-justify conference-text">
 
-
-        <h6 class="text-info">Instructions</h6>
+        <h5 class="text-info">Paper Submission & Guidelines</h5>
 
         <p>
-            Submitted papers must be neither previously published nor under
-            review by another workshop, conference or journal.
+            Authors are invited to submit original, unpublished research papers related to Neuro-Symbolic AI, Machine Learning, Deep Learning, Swarm Intelligence, and their interdisciplinary applications. Each paper should clearly identify the research problem, highlight the novelty and significance of the work, describe the methodology and experimental/theoretical approach, present results with appropriate figures and tables, and conclude with key insights and future directions.
         </p>
 
-        <p>
-            Only electronic submissions in {{site.data.submission.file_formats | join:" or "}} format
-            will be accepted. Submitted articles must be written in
-            {{site.data.submission.languages | join:" or "}}, conforming to the page limit, in
-            {{site.data.submission.fontsize}}-point font and must render without
-            error using standard PDF viewing tools.
-        </p>
-        <p>
-            <b>Page Limit</b>
-            <table class="table border">
-                {% for track in site.data.submission.pagelimits %}
-                <tr>
-                    <td><b>{{track.name}}</b></td>
-                    <td>{{track.limit}} pages</td>
-                </tr>
-                {% endfor %}
-            </table>
-        </p>
+        <h6 class="text-info">Submission Guidelines</h6>
+        <ol>
+            <li>Each paper can have a <strong>maximum of 4 authors</strong>.</li>
+            <li>Author names and affiliations must be entered during submission in the CMT portal and <strong>cannot be changed later</strong>.</li>
+            <li>The list of authors in the paper must <strong>exactly match</strong> the CMT submission.</li>
+            <li>Correspondence will be sent to all listed authors, so ensure that all email addresses in CMT are correct.</li>
+            <li>Each paper must include a <strong>minimum of 15 references</strong>.</li>
+            <li><strong>Plagiarism should be less than 10%</strong> (Excluding References). Keep the Plagiarism Report along with manuscript [TURNITIN].</li>
+            <li><strong class="text-danger">Use of AI-generated writing or ChatGPT is strictly prohibited.</strong></li>
+            <li>Grammatical errors must NOT be there. Language clarity is very much expected, and the final manuscript should be reviewed by a language expert. Any sort of dispute may lead to direct rejection by Springer.</li>
+            <li><strong class="text-danger">NO Figure and NO Table should be copied from any other paper/Internet.</strong> This activity may lead to direct rejection. Quality of the figures should be high resolution.</li>
+            <li><strong>Page Limit:</strong> Minimum 08 Pages and Maximum 09 Pages after compliance with Springer Format.</li>
+            <li>Each paper must contain <strong>Abstract (150-200 words)</strong> and <strong>Keywords (4-5)</strong>.</li>
+            <li><strong>Writing Format:</strong> Springer Format [Strictly]</li>
+            <li>All Table No. and Figure No. should be mentioned inside the manuscript.</li>
+            <li>All Reference Number/Citation must be properly cited inside the manuscript.</li>
+            <li>Make sure that all the references are cited in the body of the paper.</li>
+            <li>Make sure that all the FIGURES and TABLES are numbered in proper order and cited in the body of the paper.</li>
+            <li><strong>NO TABLE will be in IMAGE Format.</strong></li>
+            <li>All Mathematical Equations must be prepared using Math Editor; <strong>NO Equation-image must be there</strong>.</li>
+            <li>Maintain good quality [HD] figures.</li>
+        </ol>
 
+        <h6 class="text-info">Template</h6>
         <p>
-            Papers should use the <strong class="text-danger">{{site.data.submission.template.description}}</strong>, available at
+            Papers should use the <strong class="text-danger">Springer Format</strong>. Template available in MS Word format:
             <a href="{{site.data.submission.template.url}}" target="_blank">
                 <i class="fa fa-external-link fa-fw" aria-hidden="true"></i> {{site.data.submission.template.name}}
-            </a>.
-            {% if site.data.submission.template.overleaf %}The template is also available at
-            <a href="{{site.data.submission.template.overleaf}}" target="_blank">
-                <i class="fa fa-external-link fa-fw" aria-hidden="true"></i> Overleaf
             </a>
-            {% endif %}
         </p>
 
-        {% if site.data.submission.sources %}
+        <h6 class="text-info">Submission Portal</h6>
         <p>
-            <h6 class="text-info">Source Files</h6>
-            <ul>
-                {% for source in site.data.submission.sources %}
-                <li>{{source.name}}: <a href="{{source.url}}">{{source.text}}</a></li>
-                {% endfor %}
-            </ul>
+            To submit your paper, please use the Microsoft CMT portal:
         </p>
-        {% endif %}
-
-        {% if site.data.submission.extra %}
-        <p>
-            {{site.data.submission.extra}}
-        </p>
-        {% endif %}
-
-        <p>
-            <h6 class="text-info">Submission</h6>
-            To submit your paper, please follow below link to the submission
-            site:
-        </p>
-
         <p class="text-center">
-            <a href="{{site.data.submission.url}}">
+            <a href="{{site.data.submission.url}}" class="btn btn-primary" target="_blank">
                 <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
-                <strong> {{site.data.submission.portal}} </strong>
+                <strong>{{site.data.submission.portal}}</strong>
             </a>
         </p>
-
-        <p>
-            Note that at least one of the authors of each paper accepted for
-            presentation in {{site.data.conference.short_title}} must be
-            registered. All papers presented at the workshop will be included in
-            the {{site.data.submission.publisher}}.
+        <p class="text-muted" style="font-size: 90%;">
+            The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
         </p>
-
-        <h6 class="text-info">Camera-Ready Instructions</h6>
         <p>
-            You will receive the information via your email for camera-ready
-            instructions.
-
-            <!--
-                    The Author's Final Paper Formatting and Submission Instructions can be found at:</p>
-
-                <p style="padding-top: 6px;padding-bottom: 6px;">
-                </p>
-
-                <p>If you encounter any problem, please contact our editor, ____, for assistance.</p>
-
-                    <p>Please note your final camera-ready is due by
-                    <b>September 25, 2015.</b>
-                -->
-
+            The authors will need to register their email with CMT to submit paper to ICAANS 2026. 
+            <a href="https://cmt3.research.microsoft.com/docs/help/general/account-creation.html" target="_blank">
+                <i class="fa fa-external-link fa-fw" aria-hidden="true"></i> How to create a CMT account
+            </a>
         </p>
-
 
         {% include contact-us.html %}
 
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
         <!--######### important dates ##########-->
         {% include card-important-dates.html %}
         <!--####################################-->
