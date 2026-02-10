@@ -107,6 +107,14 @@ body {
     padding-bottom: 10px;
 }
 
+/* Sticky navigation */
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
 .list-group-item {
     font-size: 95%;
     padding-left: 10px;
