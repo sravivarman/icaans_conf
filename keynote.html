@@ -1,0 +1,63 @@
+---
+title: Keynote Speakers
+layout: page
+slide_id: 2
+---
+
+<div class="row mt-xs-0 mt-sm-0 my-2">
+    <div class="col conference-text">
+        <h5 class="text-info">Keynote Speakers</h5>
+        <p>
+            ICAANS 2026 is honored to feature distinguished keynote speakers who are leading experts 
+            in Artificial Intelligence, Machine Learning, and related fields.
+        </p>
+    </div>
+</div>
+
+{% for speaker in site.data.keynote %}
+<div class="row my-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                <h5 class="mb-0">{{ speaker.name }}</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3 col-sm-12 text-center mb-3">
+                        {% if speaker.image %}
+                        <img src="{{ speaker.image }}" alt="{{ speaker.name }}" class="img-fluid rounded" style="max-width: 200px;">
+                        {% endif %}
+                    </div>
+                    <div class="col-md-9 col-sm-12">
+                        {% if speaker.title %}
+                        <p class="text-muted mb-1"><strong>{{ speaker.title }}</strong></p>
+                        {% endif %}
+                        {% if speaker.affiliation %}
+                        <p class="text-muted mb-2">{{ speaker.affiliation }}</p>
+                        {% endif %}
+                        {% if speaker.homepage %}
+                        <p><a href="{{ speaker.homepage }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i> Homepage</a></p>
+                        {% endif %}
+                        {% if speaker.bio and speaker.bio != "TBA" %}
+                        <h6 class="text-info mt-3">Biography</h6>
+                        <p>{{ speaker.bio }}</p>
+                        {% endif %}
+                    </div>
+                </div>
+                {% if speaker.talk_title and speaker.talk_title != "TBA" %}
+                <hr>
+                <div class="row">
+                    <div class="col-12">
+                        <h6 class="text-info">Keynote Talk</h6>
+                        <p><strong>{{ speaker.talk_title }}</strong></p>
+                        {% if speaker.talk_abstract and speaker.talk_abstract != "TBA" %}
+                        <p class="text-muted">{{ speaker.talk_abstract }}</p>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

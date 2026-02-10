@@ -64,18 +64,22 @@ navbar:
     path: /organization.html
     visible: True
   - id: 3
+    label: Keynote
+    path: /keynote.html
+    visible: True
+  - id: 4
     label: Submission
     path: /submission.html
     visible: True
-  - id: 4
+  - id: 5
     label: Program
     path: /program.html
     visible: True
-  - id: 5
+  - id: 6
     label: Registration
     path: /registration.html
     visible: True
-deadline_timezone: IN
+deadline_timezone: IST
 deadlines:
   - date: 2026-04-15
     text: Paper Submission Deadline
@@ -86,7 +90,7 @@ deadlines:
     pass_due: False
     strike_through: False
   - date: 2026-06-05
-    # timezone: IN
+    # timezone: IST
     text: Camera Ready Submission
     pass_due: False
     strike_through: False
