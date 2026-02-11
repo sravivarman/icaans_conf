@@ -38,17 +38,13 @@
   column: 1
   members:
   - name: Dr. S. Vimala
-    org: Department of Computer Science, Mother Teresa Women's University
-    post: Professor & Head
+    org: Mother Teresa Women's University
   - name: Dr. S. Indra Gandhi
-    org: Department of Computer Science, Mother Teresa Women's University
-    post: Professor
+    org: Mother Teresa Women's University
   - name: Dr. D. Usha
-    org: Department of Computer Science, Mother Teresa Women's University
-    post: Assistant Professor
+    org: Mother Teresa Women's University
   - name: Dr. V. Selvi
-    org: Department of Computer Science, Mother Teresa Women's University
-    post: Assistant Professor
+    org: Mother Teresa Women's University
 
 - title: Conference Organizing Chair
   column: 1
@@ -56,8 +52,7 @@
   - name: Dr. B. Praveen Kumar
     org: Universiti Kebangsaan, Malaysia
   - name: Dr. R. Karthikeyan
-    org: Department of AI and ML, Varadhaman College of Engineering, Telangana, India
-    post: Professor
+    org: Varadhaman College of Engineering, Telangana, India
   - name: Dr. V. Kavitha
     org: Sri Ramakrishna College of Arts & Science, Coimbatore, India
   - name: Dr. N. Gnanasankaran
@@ -66,7 +61,7 @@
     org: Govt. Arts College for Women, Tamilnadu, India
 
 - title: International Advisory Board
-  column: 1
+  column: 2
   members:
   - name: Dr. Celestine Iwendi
     org: University of Greater Manchester, Bolton, UK
@@ -94,7 +89,6 @@
     org: Multimedia University, Melaka, Malaysia
   - name: Aminu Mustapha Bagiwa
     org: Ahmadu Bello University, Zaria, Nigeria
-    post: Reader (Assoc. Professor) of Computer Science
   - name: Prof. Xiao-Zhi Gao
     org: School of Computing, University of Eastern Finland, Joensuu, Finland
   - name: Dr. Rathinaraja Jeyaraj
@@ -107,15 +101,15 @@
     org: Taylor's University, Malaysia
   - name: Dr. Senthil Kumar M
     org: University of Technology and Applied Science - AL Mussanah, Oman
-  - name: Fernando Ruiz Pérez
+  - name: Prof. Fernando Ruiz Pérez
     org: Instituto Politécnico Nacional, Mexico
-  - name: G M Shafiullah
+  - name: Prof. G M Shafiullah
     org: Murdoch University, Australia
   - name: Giacomo Oliveri
     org: Presso Università, Trento, Italy
   - name: Dr. Sathish Kumar
     org: Cleveland State University, Cleveland, OH, USA
-  - name: Gnanaseelan Natarajan
+  - name: Prof. Gnanaseelan Natarajan
     org: CICATA Altamira IPN, Mexico
   - name: Hassan Haes Alhelou
     org: Smart Energy Systems Lab, Ireland
@@ -141,19 +135,19 @@
     org: ABB Medium-Voltage Drives, Switzerland
   - name: Dr. Najiba ALZadjali
     org: University of Technology and Applied Science - Muscat, Oman
-  - name: Wang Lipo
+  - name: Prof. Wang Lipo
     org: Nanyang Technological University, Singapore
-  - name: Wangda Zuo
+  - name: Prof. Wangda Zuo
     org: University Park, Pennsylvania, USA
-  - name: Wei Qiao
+  - name: Prof. Wei Qiao
     org: University of Nebraska Lincoln, Nebraska, USA
-  - name: Zahra Saadatizadeh
+  - name: Prof. Zahra Saadatizadeh
     org: University of Arkansas, USA
-  - name: Özen Özer
+  - name: Prof. Özen Özer
     org: Kırklareli University, Kırklareli, Turkey
 
 - title: National Advisory Board
-  column: 2
+  column: 3
   members:
   - name: Dr. Manjaiah D.H
     org: Mangalore University, Mangalore
@@ -190,26 +184,24 @@
     org: REVA University, Bengaluru, Karnataka, India
   - name: Dr. Ravi Shankar Singh
     org: IIT (BHU)
-    post: Professor of Computer Science and Engineering
   - name: Dr. Ashish Mishra
     org: Gyan Ganga Institute of Technology and Sciences, Jabalpur
-    post: Professor of Computer Science and Engineering
   - name: Prof. Vishal Goyal
-    org: Computer Science, Punjabi University, Patiala, Punjab, India
+    org: Punjabi University, Patiala, Punjab, India
   - name: Dr. Sanjay Jamwal
-    org: Department of Computer Sciences, Baba Ghulam Shah Badshah University, Rajouri, Jammu & Kashmir
+    org: Baba Ghulam Shah Badshah University, Rajouri, Jammu & Kashmir
   - name: Prof. Atul Gosai
-    org: Department of Computer Sciences, Saurashtra University, Rajkot, Gujarat, India
+    org: Saurashtra University, Rajkot, Gujarat, India
   - name: Dr. N. A. Natraj
     org: Symbiosis Institute of Digital and Telecom Management (SIDTM), Symbiosis International (Deemed University), Maharashtra, India
   - name: Prof. Neeraj Bhargava
-    org: Dept of Computer Sciences, School of Engg. & System Sciences, MDS University, Ajmer, Rajasthan
+    org: School of Engg. & System Sciences, MDS University, Ajmer, Rajasthan
   - name: M. Vijayaanand
     org: Cognizant Technology Solutions, Chennai, Tamilnadu, India
     post: Sr Architect
 
 - title: Technical Committee Members
-  column: 2
+  column: 3
   members:
   - name: Dr. Neha Singhal
     org: CHRIST (Deemed to be University) Dharmaram College, Karnataka, India
@@ -261,7 +253,7 @@
     org: Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai
   - name: Mrs. R. Padmavathi
     org: Agurchand Manmull Jain College, Meenambakkam, Chennai
-  - name: Boby Chellanthara Jose
+  - name: Prof. Boby Chellanthara Jose
     org: University of Technology and Applied Science - AL Mussanah, Oman
-  - name: Feroze Ahmed
+  - name: Prof. Feroze Ahmed
     org: University of Technology and Applied Science - AL Mussanah, Oman
