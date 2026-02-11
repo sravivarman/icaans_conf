@@ -14,50 +14,43 @@ slide_id: 2
     </div>
 </div>
 
-{% for speaker in site.data.keynote %}
-<div class="row my-4">
-    <div class="col-12">
-        <div class="card">
-            <div class="card-header bg-dark text-white">
-                <h5 class="mb-0">{{ speaker.name }}</h5>
-            </div>
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md-3 col-sm-12 text-center mb-3">
-                        {% if speaker.image %}
-                        <img src="{{ speaker.image }}" alt="{{ speaker.name }}" class="img-fluid rounded" style="max-width: 200px;">
-                        {% endif %}
-                    </div>
-                    <div class="col-md-9 col-sm-12">
-                        {% if speaker.title %}
-                        <p class="text-muted mb-1"><strong>{{ speaker.title }}</strong></p>
-                        {% endif %}
-                        {% if speaker.affiliation %}
-                        <p class="text-muted mb-2">{{ speaker.affiliation }}</p>
-                        {% endif %}
-                        {% if speaker.homepage %}
-                        <p><a href="{{ speaker.homepage }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i> Homepage</a></p>
-                        {% endif %}
-                        {% if speaker.bio and speaker.bio != "TBA" %}
-                        <h6 class="text-info mt-3">Biography</h6>
-                        <p>{{ speaker.bio }}</p>
-                        {% endif %}
-                    </div>
-                </div>
+<div class="row">
+    {% for speaker in site.data.keynote %}
+    <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+        <div class="card h-100">
+            <div class="card-body text-center">
+                {% if speaker.image %}
+                <img src="{{ speaker.image }}" alt="{{ speaker.name }}" class="img-fluid rounded mb-3" style="max-width: 150px; height: 150px; object-fit: cover;">
+                {% endif %}
+                <h6 class="card-title text-primary mb-2">{{ speaker.name }}</h6>
+                {% if speaker.title %}
+                <p class="text-muted small mb-1"><strong>{{ speaker.title }}</strong></p>
+                {% endif %}
+                {% if speaker.affiliation %}
+                <p class="text-muted small mb-2">{{ speaker.affiliation }}</p>
+                {% endif %}
+                {% if speaker.homepage %}
+                <p class="mb-2"><a href="{{ speaker.homepage }}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-primary"><i class="fa fa-globe"></i> Homepage</a></p>
+                {% endif %}
+                {% if speaker.bio and speaker.bio != "TBA" %}
+                <details class="mt-2">
+                    <summary class="text-info small">Biography</summary>
+                    <p class="small text-left mt-2">{{ speaker.bio }}</p>
+                </details>
+                {% endif %}
                 {% if speaker.talk_title and speaker.talk_title != "TBA" %}
-                <hr>
-                <div class="row">
-                    <div class="col-12">
-                        <h6 class="text-info">Keynote Talk</h6>
-                        <p><strong>{{ speaker.talk_title }}</strong></p>
+                <details class="mt-2">
+                    <summary class="text-info small">Keynote Talk</summary>
+                    <div class="text-left mt-2">
+                        <p class="small"><strong>{{ speaker.talk_title }}</strong></p>
                         {% if speaker.talk_abstract and speaker.talk_abstract != "TBA" %}
-                        <p class="text-muted">{{ speaker.talk_abstract }}</p>
+                        <p class="small text-muted">{{ speaker.talk_abstract }}</p>
                         {% endif %}
                     </div>
-                </div>
+                </details>
                 {% endif %}
             </div>
         </div>
     </div>
+    {% endfor %}
 </div>
-{% endfor %}
