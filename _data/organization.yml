@@ -8,16 +8,16 @@
 - title: Patron
   column: 1
   members:
-  - name: Dr. Jayappriya
+  - name: Dr. P. Jeyappriya
     org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
-    post: Registrar
+    post: Registrar I/C
 
 - title: Co-Patron
   column: 1
   members:
   - name: Dr. M. Pushpa Rani
     org: Department of Computer Science, Mother Teresa Women's University, Kodaikanal, Tamilnadu
-    post: Professor & Head
+    post: Professor & Director
 
 - title: Conference Honorary Chair
   column: 1
@@ -31,8 +31,8 @@
   members:
   - name: Dr. K. Kavitha
     org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
-  - name: Dr. Elangovan
-    org: SRM Institute, Chennai
+  - name: Dr. V. R. Elangovan
+    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur ,Chennai
 
 - title: Program Chair
   column: 1
@@ -41,20 +41,24 @@
     org: Mother Teresa Women's University
   - name: Dr. S. Indra Gandhi
     org: Mother Teresa Women's University
-  - name: Dr. D. Usha
-    org: Mother Teresa Women's University
-  - name: Dr. V. Selvi
-    org: Mother Teresa Women's University
 
 - title: Conference Organizing Chair
   column: 1
   members:
+  - name: Dr. D. Usha
+    org: Mother Teresa Women's University
+  - name: Dr. V. Selvi
+    org: Mother Teresa Women's University
   - name: Dr. B. Praveen Kumar
     org: Universiti Kebangsaan, Malaysia
   - name: Dr. R. Karthikeyan
     org: Varadhaman College of Engineering, Telangana, India
+  - name: Dr. Saleem Raja
+    org: University of Technology and Applied Science-Shinas, Oman
   - name: Dr. V. Kavitha
     org: Sri Ramakrishna College of Arts & Science, Coimbatore, India
+  - name: Prof. D. Revathy
+    org: PPG Institute of Technology, Coimbatore
   - name: Dr. N. Gnanasankaran
     org: Thiagarajar College, Tamilnadu, India
   - name: Dr. E. Elakkiya
@@ -257,3 +261,13 @@
     org: University of Technology and Applied Science - AL Mussanah, Oman
   - name: Prof. Feroze Ahmed
     org: University of Technology and Applied Science - AL Mussanah, Oman
+  - name: Dr. M. Ganesh Raja
+    org: The New College- Autonomous, Royapettah, Chennai 
+  - name: Dr. R. Rengasamy
+    org: Bharathidasan Government College for Women, Puducherry.
+  - name: Dr. R. Kiruthiga
+    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai.
+  - name: Dr. Srividhya Murali
+    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai.
+  - name: Dr. K. Kavitha
+    org: Guru Nanak College, Velachery, Chennai.
