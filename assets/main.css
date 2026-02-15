@@ -33,8 +33,7 @@ body {
 
 .jumbotron,
 .carousel-item {
-    min-height: 350px;
-    height: auto;
+    height: 375px;
     border-radius: 0;
 }
 
