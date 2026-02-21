@@ -1,4 +1,4 @@
-about: "Register for the 1st International Conference on Advancements in Applied and Natural Sciences (ICAANS 2026). Early registration is recommended to secure your participation."
+about: "Register for the 1st ICAANS 2026. Early registration is recommended to secure your participation."
 url: ""
 description: |
   All authors of accepted papers must register for the conference. At least one author per paper is required to register and present the paper at the conference.
@@ -10,14 +10,14 @@ apc:
     The following registration fees apply for accepted papers.  
   categories:
     - type: "Students"
-      indian: "₹3,000"
-      foreign: "$100"
-    - type: "Faculty/Research Scholars"
-      indian: "₹4,500"
-      foreign: "$150"
-    - type: "Industry Persons"
-      indian: "₹6,000"
+      indian: "₹8,000"
       foreign: "$200"
+    - type: "Faculty/Research Scholars"
+      indian: "₹10,000"
+      foreign: "$250"
+    - type: "Industry Persons"
+      indian: "₹15,000"
+      foreign: "$350"
   notes:
     - "At least one author per accepted paper must register."
     - Payment of fees must accompany all registration forms. 
