@@ -69,22 +69,28 @@ slide_id: 3
             
             <div class="row">
                 {% for method in site.data.registration.payment.methods %}
-                <div class="col-md-6 mb-3">
+                <div class="col-md-4 mb-3">
                     <div class="card h-100">
                         <div class="card-header">
                             <i class="fa {{ method.icon }}"></i> {{ method.name }}
                         </div>
                         <div class="card-body">
                             <p class="card-text" style="white-space: pre-line;">{{ method.details }}</p>
-                            {% if method.qr_code %}
-                            <div class="text-center mt-3">
-                                <img src="{{ method.qr_code | relative_url }}" alt="UPI QR Code" class="img-fluid" style="max-width: 200px;">
-                            </div>
-                            {% endif %}
                         </div>
                     </div>
                 </div>
                 {% endfor %}
+                <div class="col-md-4 mb-3">
+                    <div class="card h-100">
+                        <div class="card-header">
+                            <i class="fa fa-qrcode"></i> UPI QR Code
+                        </div>
+                        <div class="card-body text-center">
+                            <img src="{{ '/assets/images/registration_qr.jpeg' | relative_url }}" alt="UPI QR Code" class="img-fluid" style="max-width: 200px;">
+                            <p class="mt-2 text-muted small">Scan to pay via UPI</p>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             {% if site.data.registration.payment.notes %}
