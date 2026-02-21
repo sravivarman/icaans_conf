@@ -7,7 +7,7 @@ apc:
   enabled: true
   title: "Registration Fees"
   description: |
-    The following registration fees apply for accepted papers. All fees include conference kit, proceedings, certificate, lunch, and refreshments.
+    The following registration fees apply for accepted papers.  
   categories:
     - type: "Students"
       indian: "₹3,000"
@@ -19,15 +19,15 @@ apc:
       indian: "₹6,000"
       foreign: "$200"
   notes:
-    - "Early bird discount of 10% available until [Date TBA]."
     - "At least one author per accepted paper must register."
-    - "Additional paper by the same author: 50% of the applicable fee."
+    - Payment of fees must accompany all registration forms. 
+    - Your registration WILL NOT be confirmed until payment is received in full.
 
 payment:
   enabled: true
   title: "Payment Information"
   description: |
-    Payment for conference registration can be made through the following methods.
+    Authors are requested to pay the Registration Fees using Bank Transfer or UPI (Google Pay, PhonePe, etc.).
     Please ensure that your payment is completed before the registration deadline.
   methods:
     - name: "Bank Transfer"
@@ -36,20 +36,14 @@ payment:
         Bank Name: [To be announced]
         Account Name: ICAANS 2026
         Account Number: [To be announced]
-        SWIFT/BIC Code: [To be announced]
+        IFSC Code: [To be announced]
         Reference: Please include your registration ID
-    - name: "Credit/Debit Card"
-      icon: "fa-credit-card"
+    - name: "UPI"
+      icon: "fa-mobile"
       details: |
-        Online payment via credit or debit card will be available through our secure payment portal.
-        Accepted cards: Visa, MasterCard, American Express
-    - name: "PayPal"
-      icon: "fa-paypal"
-      details: |
-        PayPal payments can be made to our official account.
-        PayPal Email: [To be announced]
+        UPI ID: [To be announced]
+        Accepted Apps: Google Pay, PhonePe, Paytm, BHIM, and other UPI apps
+        Reference: Please include your name and paper ID in remarks
   notes:
-    - "All payments must be made in USD unless otherwise specified."
-    - "Please retain your payment confirmation for reference."
-    - "Refund policy: Full refund available up to 30 days before the conference. 50% refund up to 14 days before. No refunds within 14 days of the conference."
-    - "For any payment-related queries, please contact the registration committee."
+    - "Please retain your payment confirmation/screenshot for reference."
+    - "For any payment-related queries, please contact the conference committee."
