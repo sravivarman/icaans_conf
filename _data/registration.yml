@@ -37,13 +37,15 @@ payment:
         Account Name: [To be announced]
         Account Number: [To be announced]
         IFSC Code: [To be announced]
-        Reference: Please include your registration ID
     - name: "UPI"
       icon: "fa-mobile"
+      qr_code: "/assets/images/registration_qr.jpeg"
       details: |
         UPI ID: [To be announced]
         Accepted Apps: Google Pay, PhonePe, Paytm, BHIM, and other UPI apps
         Reference: Please include your name and paper ID in remarks
+        
+        Scan the QR code below for quick UPI payment:
   notes:
     - "Please retain your payment confirmation/screenshot for reference."
     - "For any payment-related queries, please contact the conference committee."
