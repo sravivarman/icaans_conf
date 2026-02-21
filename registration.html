@@ -24,6 +24,76 @@ slide_id: 3
                 {{site.data.registration.description}}
             </p>
             {% endif %}
+
+            {% if site.data.registration.apc.enabled %}
+            <h5>{{ site.data.registration.apc.title }}</h5>
+            <p>
+                {{ site.data.registration.apc.description }}
+            </p>
+            
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Category</th>
+                            <th>Indian Authors (INR)</th>
+                            <th>Foreign Authors (USD)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for category in site.data.registration.apc.categories %}
+                        <tr>
+                            <td>{{ category.type }}</td>
+                            <td>{{ category.indian }}</td>
+                            <td>{{ category.foreign }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            {% if site.data.registration.apc.notes %}
+            <ul class="text-muted">
+                {% for note in site.data.registration.apc.notes %}
+                <li>{{ note }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            {% endif %}
+
+            {% if site.data.registration.payment.enabled %}
+            <h5>{{ site.data.registration.payment.title }}</h5>
+            <p>
+                {{ site.data.registration.payment.description }}
+            </p>
+            
+            <div class="row">
+                {% for method in site.data.registration.payment.methods %}
+                <div class="col-md-4 mb-3">
+                    <div class="card h-100">
+                        <div class="card-header">
+                            <i class="fa {{ method.icon }}"></i> {{ method.name }}
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text" style="white-space: pre-line;">{{ method.details }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            {% if site.data.registration.payment.notes %}
+            <div class="alert alert-info mt-3">
+                <strong><i class="fa fa-info-circle"></i> Important Notes:</strong>
+                <ul class="mb-0 mt-2">
+                    {% for note in site.data.registration.payment.notes %}
+                    <li>{{ note }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endif %}
+
             <h5>Visa</h5>
             <p>
                 If you are an international traveller and need a visa to enter
