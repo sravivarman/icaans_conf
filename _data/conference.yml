@@ -71,6 +71,13 @@ navbar:
     label: Submission
     path: /submission.html
     visible: True
+    children:
+      - label: Review Process
+        path: /review_process.html
+        visible: True
+      - label: Ethics and Malpractice Statement
+        path: /ethics.html
+        visible: True
   - id: 5
     label: Program
     path: /program.html
