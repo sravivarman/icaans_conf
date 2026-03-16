@@ -6,7 +6,7 @@ slide_id: 3
 
 
 <div class="row mt-xs-0 mt-sm-0 my-2">
-    <div class="col conference-text">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 conference-text">
         {% if site.data.program.online.live %}
         <h6 class="text-info">Online</h6>
         <p>
@@ -87,5 +87,19 @@ slide_id: 3
         <div class="conference-text">
             {% include contact-us.html %}
         </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+        <!-- news -->
+        {% include card-news.html %}
+        <!-- ---- -->
+        <!-- important dates -->
+        {% include card-important-dates.html %}
+        <!-- ---------------- -->
+        <!-- publishing partners -->
+        {% include card-publishing-partners.html %}
+        <!-- ------------------- -->
+        <!-- contact -->
+        {% include contact-us.html %}
+        <!-- ------- -->
     </div>
 </div>
