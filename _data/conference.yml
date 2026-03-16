@@ -72,6 +72,9 @@ navbar:
     path: /submission.html
     visible: True
     children:
+      - label: Submission
+        path: /submission.html
+        visible: True
       - label: Review Process
         path: /review_process.html
         visible: True
