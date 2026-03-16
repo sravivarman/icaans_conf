@@ -9,15 +9,15 @@ apc:
   description: |
     The following registration fees apply for accepted papers.  
   categories:
-    - type: "Students"
-      indian: "₹9,000"
-      foreign: "$200"
-    - type: "Faculty/Research Scholars"
-      indian: "₹10,000"
-      foreign: "$250"
+    - type: "Research Scholars/Students"
+      indian: "₹11,000"
+      foreign: "$130"
+    - type: "Faculty"
+      indian: "₹12,500"
+      foreign: "$145"
     - type: "Industry Persons"
       indian: "₹15,000"
-      foreign: "$350"
+      foreign: "$175"
   notes:
     - "At least one author per accepted paper must register."
     - Payment of fees must accompany all registration forms. 
