@@ -12,13 +12,6 @@
     org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
     post: Registrar I/C
 
-- title: Co-Patron
-  column: 1
-  members:
-  - name: Dr. M. Pushpa Rani
-    org: Department of Computer Science, Mother Teresa Women's University, Kodaikanal, Tamilnadu
-    post: Professor & Director
-
 - title: Conference Honorary Chair
   column: 1
   members:
@@ -29,10 +22,10 @@
 - title: Conference Convenor
   column: 1
   members:
-  - name: Dr. K. Kavitha
+  - name: Dr. S.Vimala
     org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
-  - name: Dr. V. R. Elangovan
-    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur ,Chennai
+  - name: Dr. Meenapriyadharshini
+    org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
 
 - title: Program Chair
   column: 1
@@ -63,6 +56,18 @@
     org: Thiagarajar College, Tamilnadu, India
   - name: Dr. E. Elakkiya
     org: Govt. Arts College for Women, Tamilnadu, India
+
+- title: Conference Organizing Secretary
+  column: 1
+  members:
+  - name:  Dr. V. R. Elangovan
+    org: SRM institute of science and technology (SRMIST), Kattankulathur, Chennai.
+  - name: Dr. K. Kavitha
+    org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
+  - name: Dr. D. Usha
+    org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
+  - name: Dr. V. Selvi
+    org: Mother Teresa Women's University, Kodaikanal, Tamilnadu
 
 - title: International Advisory Board
   column: 1
@@ -272,3 +277,15 @@
     org: Guru Nanak College, Velachery, Chennai.
   - name: Dr. S. Ravivarman
     org: Vardhaman College of Engineering, Telangana, India
+
+- title: Programme Chair
+  column: 2
+  members:
+  - name: Dr. B. Indrani 
+    org: Madurai Kamaraj University, Madurai
+  - name: Dr. A. Nagaraj
+    org: Alagappa University, Karaikudi
+  - name: Dr. S. Gavaskar
+    org: Bharathiar University, Coimbatore
+  - name: Dr. D. Napoleon
+    org: Bharathiar University, Coimbatore
