@@ -95,11 +95,11 @@ deadlines:
     text: Paper Submission Deadline
     pass_due: False
     strike_through: False
-  - date: 2026-05-16
+  - date: 2026-05-20
     text: Author Notification
     pass_due: False
     strike_through: False
-  - date: 2026-06-05
+  - date: 2026-06-20
     # timezone: IST
     text: Camera Ready Submission
     pass_due: False
