@@ -31,7 +31,7 @@
   column: 1
   members:
   - name: Dr. S. Indra Gandhi
-    org: Mother Teresa Women's University
+    org: Mother Teresa Women's University, Kodaikanal
   - name: Dr. B. Indrani 
     org: Madurai Kamaraj University, Madurai
   - name: Dr. A. Nagarajan
@@ -53,7 +53,7 @@
   - name: Dr. V. Kavitha
     org: Sri Ramakrishna College of Arts & Science, Coimbatore, India
   - name: Prof. D. Revathy
-    org: PPG Institute of Technology, Coimbatore
+    org: PPG Institute of Technology, Coimbatore, India
   - name: Dr. N. Gnanasankaran
     org: Thiagarajar College, Tamilnadu, India
   - name: Dr. E. Elakkiya
@@ -169,52 +169,52 @@
   - name: Dr. M. Thangaraj
     org: Madurai Kamaraj University, Tamilnadu
   - name: Dr. M. Pallikonda Rajasekaran
-    org: Kalasalingam Academy of Research and Education, Tamilnadu, India
+    org: Kalasalingam Academy of Research and Education, Tamilnadu
   - name: Dr. Kavita
-    org: Galgotias University, Delhi NCR, India
+    org: Galgotias University, Delhi NCR
   - name: Dr. Abhishek Kumar
-    org: Chandigarh University, Punjab, India
+    org: Chandigarh University, Punjab
   - name: Dr. Vandana Sharma
-    org: Christ University, Delhi NCR Campus, India
+    org: Christ University, Delhi NCR Campus
   - name: Dr. Anand Sharma
-    org: Mody University of Science and Technology, Rajasthan, India
+    org: Mody University of Science and Technology, Rajasthan
   - name: Dr. Pooja Jain
     org: Indian Institute of Information Technology, Nagpur
   - name: Dr. K. Shantha Kumari
-    org: SRM Institute of Science and Technology, Chennai, India
+    org: SRM Institute of Science and Technology, Chennai
   - name: Dr. Vishal Gour
     org: Engineering College Bikaner, Rajasthan
   - name: Dr. Rajesh Kumar Dhanaraj
-    org: Symbiosis International (Deemed University), Pune, India
+    org: Symbiosis International (Deemed University), Pune
   - name: Dr. R.P. Ram Kumar
     org: Gokaraju Rangaraju Institute of Engineering and Technology, Bachupally, Hyderabad
   - name: Dr. A. Padma Priya
     org: Alagappa University, Karaikudi
   - name: Dr. Arun Biradar
-    org: REVA University, Bengaluru, Karnataka, India
+    org: REVA University, Bengaluru, Karnataka
   - name: Dr. Ravi Shankar Singh
     org: IIT (BHU)
   - name: Dr. Ashish Mishra
     org: Gyan Ganga Institute of Technology and Sciences, Jabalpur
   - name: Prof. Vishal Goyal
-    org: Punjabi University, Patiala, Punjab, India
+    org: Punjabi University, Patiala, Punjab
   - name: Dr. Sanjay Jamwal
     org: Baba Ghulam Shah Badshah University, Rajouri, Jammu & Kashmir
   - name: Prof. Atul Gosai
-    org: Saurashtra University, Rajkot, Gujarat, India
+    org: Saurashtra University, Rajkot, Gujarat
   - name: Dr. N. A. Natraj
-    org: Symbiosis Institute of Digital and Telecom Management (SIDTM), Symbiosis International (Deemed University), Maharashtra, India
+    org: Symbiosis Institute of Digital and Telecom Management (SIDTM), Symbiosis International (Deemed University), Maharashtra
   - name: Prof. Neeraj Bhargava
     org: School of Engg. & System Sciences, MDS University, Ajmer, Rajasthan
   - name: M. Vijayaanand
-    org: Cognizant Technology Solutions, Chennai, Tamilnadu, India
+    org: Cognizant Technology Solutions, Chennai, Tamilnadu
     post: Sr Architect
 
 - title: Technical Committee Members
   column: 2
   members:
   - name: Dr. Neha Singhal
-    org: CHRIST (Deemed to be University) Dharmaram College, Karnataka, India
+    org: CHRIST (Deemed to be University) Dharmaram College, Karnataka
   - name: Dr. B. Murugeshwari
     org: Velammal Engineering College, Chennai
   - name: Dr. K. Kayathri
@@ -232,17 +232,17 @@
   - name: Dr. M. Balamurugan
     org: Bharathidasan University, Trichy
   - name: Dr. Gopinath Ganapathy
-    org: Bharathidasan University
+    org: Bharathidasan University, Trichy
   - name: Dr. P. Kalavathi
-    org: Gandhigram Rural Institute
+    org: Gandhigram Rural Institute, Dindigul
   - name: Dr. P. Shanmugavadivu
-    org: Gandhigram Rural Institute
+    org: Gandhigram Rural Institute, Dindigul
   - name: Dr. R.S. Bhuvaneswaran
     org: Anna University, Chennai
   - name: Dr. E. Srie Vidhya Janani
     org: Anna University, Madurai Campus
   - name: Dr. P. Thiyagarajan
-    org: Central University of Tamilnadu
+    org: Central University of Tamilnadu, Thiruvarur
   - name: Dr. G. Suganya
     org: VIT, Chennai
   - name: Dr. E. Chandra
@@ -266,10 +266,10 @@
   - name: Dr. R. Rengasamy
     org: Bharathidasan Government College for Women, Puducherry.
   - name: Dr. R. Kiruthiga
-    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai.
+    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai
   - name: Dr. Srividhya Murali
-    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai.
+    org: SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai
   - name: Dr. K. Kavitha
-    org: Guru Nanak College, Velachery, Chennai.
+    org: Guru Nanak College, Velachery, Chennai
   - name: Dr. S. Ravivarman
-    org: Vardhaman College of Engineering, Telangana, India
+    org: Vardhaman College of Engineering, Telangana
