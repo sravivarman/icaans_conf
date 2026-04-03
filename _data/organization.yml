@@ -34,6 +34,14 @@
     org: Mother Teresa Women's University
   - name: Dr. S. Indra Gandhi
     org: Mother Teresa Women's University
+  - name: Dr. B. Indrani 
+    org: Madurai Kamaraj University, Madurai
+  - name: Dr. A. Nagaraj
+    org: Alagappa University, Karaikudi
+  - name: Dr. S. Gavaskar
+    org: Bharathiar University, Coimbatore
+  - name: Dr. D. Napoleon
+    org: Bharathiar University, Coimbatore
 
 - title: Conference Organizing Chair
   column: 1
@@ -277,15 +285,3 @@
     org: Guru Nanak College, Velachery, Chennai.
   - name: Dr. S. Ravivarman
     org: Vardhaman College of Engineering, Telangana, India
-
-- title: Programme Chair
-  column: 2
-  members:
-  - name: Dr. B. Indrani 
-    org: Madurai Kamaraj University, Madurai
-  - name: Dr. A. Nagaraj
-    org: Alagappa University, Karaikudi
-  - name: Dr. S. Gavaskar
-    org: Bharathiar University, Coimbatore
-  - name: Dr. D. Napoleon
-    org: Bharathiar University, Coimbatore
