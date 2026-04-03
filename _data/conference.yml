@@ -95,7 +95,7 @@ deadlines:
     text: Paper Submission Deadline
     pass_due: False
     strike_through: False
-  - date: 2026-05-10
+  - date: 2026-05-16
     text: Author Notification
     pass_due: False
     strike_through: False
