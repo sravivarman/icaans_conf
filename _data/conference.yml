@@ -91,7 +91,7 @@ navbar:
     visible: True
 deadline_timezone: IST
 deadlines:
-  - date: 2026-04-30
+  - date: 2026-05-10
     text: Paper Submission Deadline
     pass_due: False
     strike_through: False
